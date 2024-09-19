@@ -1,0 +1,82 @@
+Geekbench 6.3.0 : https://www.geekbench.com/
+
+Geekbench 6 requires an active internet connection and automatically uploads 
+benchmark results to the Geekbench Browser.
+
+Upgrade to Geekbench 6 Pro to enable offline use and unlock other features:
+
+  https://store.primatelabs.com/v6
+
+Enter your Geekbench 6 Pro license using the following command line:
+
+  ./geekbench6 --unlock <email> <key>
+
+System Information
+  Operating System              Ubuntu 24.04 LTS
+  Kernel                        Linux 6.8.0-1012-aws x86_64
+  Model                         Xen HVM domU
+  Motherboard                   N/A
+  BIOS                          Xen 4.11.amazon
+
+CPU Information
+  Name                          Intel Xeon E5-2686 v4
+  Topology                      1 Processor, 1 Core, 2 Threads
+  Identifier                    GenuineIntel Family 6 Model 79 Stepping 1
+  Base Frequency                2.30 GHz
+  L1 Instruction Cache          32.0 KB
+  L1 Data Cache                 32.0 KB
+  L2 Cache                      256 KB
+  L3 Cache                      45.0 MB
+
+Memory Information
+  Size                          7.75 GB
+
+
+Single-Core
+  Running File Compression
+  Running Navigation
+  Running HTML5 Browser
+  Running PDF Renderer
+  Running Photo Library
+  Running Clang
+  Running Text Processing
+  Running Asset Compression
+  Running Object Detection
+  Running Background Blur
+  Running Horizon Detection
+  Running Object Remover
+  Running HDR
+  Running Photo Filter
+  Running Ray Tracer
+  Running Structure from Motion
+
+Multi-Core
+  Running File Compression
+  Running Navigation
+  Running HTML5 Browser
+  Running PDF Renderer
+  Running Photo Library
+  Running Clang
+  Running Text Processing
+  Running Asset Compression
+  Running Object Detection
+  Running Background Blur
+  Running Horizon Detection
+  Running Object Remover
+  Running HDR
+  Running Photo Filter
+  Running Ray Tracer
+  Running Structure from Motion
+
+
+Uploading results to the Geekbench Browser. This could take a minute or two 
+depending on the speed of your internet connection.
+
+Upload succeeded. Visit the following link and view your results online:
+
+  https://browser.geekbench.com/v6/cpu/7835045
+
+Visit the following link and add this result to your profile:
+
+  https://browser.geekbench.com/v6/cpu/7835045/claim?key=498797
+
